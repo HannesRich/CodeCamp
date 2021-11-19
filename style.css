@@ -1,0 +1,17 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+.centered-content {
+    text-align: center;
+}
+.abstand {
+    padding: auto;
+}
+section {
+    padding: 3em;
+}
+.center-img{
+    display: grid;
+    place-content: top;
+}
